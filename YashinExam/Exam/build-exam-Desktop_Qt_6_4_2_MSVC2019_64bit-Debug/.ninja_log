@@ -1,0 +1,10 @@
+# ninja log v5
+7	135	7092959651355724	build.ninja	9f3ddd01ff20295b
+13	470	7092959644784344	CMakeFiles/exam.dir/main.cpp.obj	295a42cd75e01abd
+592	720	7092958129704446	exam.exe	5cbfe2e918b2bc7f
+12	584	7092959823407265	CMakeFiles/exam.dir/metricregister.cpp.obj	3db013a8034d1e3b
+584	756	7092959824719834	exam.exe	b7982774c1e34ada
+13	636	7092961714441931	CMakeFiles/exam.dir/metricregister.cpp.obj	3db013a8034d1e3b
+17	552	7092977601244481	CMakeFiles/exam.dir/metricregister.cpp.obj	3db013a8034d1e3b
+12	554	7092977601254486	CMakeFiles/exam.dir/main.cpp.obj	295a42cd75e01abd
+554	694	7092977602284427	exam.exe	b7982774c1e34ada
